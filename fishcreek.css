@@ -37,5 +37,25 @@ main {
 dt{
   color: #5280C5;
   font-size: 1.1 em;
+  font-family: Georgia, ¨Times New Roman¨, serif;
+  font-weight: bold;
+}
+  .category{
+   color: #5380C5;
+   font-family: Georgia, ¨Times New Roman¨, serif;
+   font-weight: bold;
+}
+footer{
+      background-color: #AEC3E3;
+      font-size: .70em;
+      font-style: italic;
+      padding-bottom: .5em;
+      text-align: center;
+}
+footer nav {
+ background-color: #F0F0F0;
+ font-size: 110%;
+ padding-bottom: .5em;
+}
 
    
