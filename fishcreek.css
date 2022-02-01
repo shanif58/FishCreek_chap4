@@ -16,7 +16,7 @@ background-image: url(fishcreeklogo.gif);
 background-position: center;
 background-repeat: no-repeat;
 color: #F0F0F0;
-font-family: Georgia, ¨Times New Roman¨, seif;
+font-family: Georgia, "Times New Roman", seif;
 padding: 1em;
 text-align: center;
 }
@@ -37,7 +37,7 @@ main {
 dt{
   color: #5280C5;
   font-size: 1.1 em;
-  font-family: Georgia, ¨Times New Roman¨, serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-weight: bold;
 }
   .category{
